@@ -18,7 +18,7 @@ btn.addEventListener("click",function(){
 let img = document.createElement('img')
 img.className="dump"
 img.src =`img2.png`
-img.style.width = "70px"
+img.style.width = "80px"
 document.getElementById("Viwe").appendChild(img)
 }
 })
